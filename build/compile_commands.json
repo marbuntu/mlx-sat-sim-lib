@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -g -o CMakeFiles/test_erk.dir/src/test-erk.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/src/test-erk.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/src/test-erk.cpp"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/algorithms/mlx-runge-kutta.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms/mlx-runge-kutta.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms/mlx-runge-kutta.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/mlx-analytics.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-analytics.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-analytics.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/mlx-cwt.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-cwt.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-cwt.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/mlx-fft.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-fft.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-fft.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/mlx-gaussian-filter.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-gaussian-filter.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-gaussian-filter.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/mlx-sos-filter.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-sos-filter.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/mlx-sos-filter.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/operators/mlx-convolution.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/operators/mlx-convolution.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/operators/mlx-convolution.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/operators/mlx-window-statistics.cc.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/operators/mlx-window-statistics.cc",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/operators/mlx-window-statistics.cc"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/gcc-12 -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/MLX_LOGGING_HDRS -g -o libs/mlx-analytics/CMakeFiles/mlx_analytics.dir/wavelets/mlx-wvt-gauss.c.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/wavelets/mlx-wvt-gauss.c",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/wavelets/mlx-wvt-gauss.c"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -g -o snx/CMakeFiles/libsnx.dir/time/snx-time.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/time/snx-time.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/time/snx-time.cpp"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -g -o snx/CMakeFiles/libsnx.dir/mobility/mobility-propagator.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/mobility-propagator.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/mobility-propagator.cpp"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -g -o snx/CMakeFiles/libsnx.dir/mobility/earth-reference.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/earth-reference.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/earth-reference.cpp"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -g -o snx/CMakeFiles/libsnx.dir/mobility/mob-propagator.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/mob-propagator.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/mob-propagator.cpp"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -g -o snx/CMakeFiles/libsnx.dir/mobility/mob-parameters.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/mob-parameters.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/mob-parameters.cpp"
+},
+{
+  "directory": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/build",
+  "command": "/usr/bin/c++ -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics -I/home/marbu/projects/master-collection/mlx-sat-sim-lib/libs/mlx-analytics/algorithms -g -o snx/CMakeFiles/libsnx.dir/mobility/keplerian-propagator.cpp.o -c /home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/keplerian-propagator.cpp",
+  "file": "/home/marbu/projects/master-collection/mlx-sat-sim-lib/snx/mobility/keplerian-propagator.cpp"
+}
+]
